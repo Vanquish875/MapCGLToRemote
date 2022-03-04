@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l6+XYjykT1+3RWfNzW61UdLTNpMv1yCXDj2/FlKZ71I5FsWSj+Qk3x3ufPlBLm0BFLReDA/JA7CWgRj+9Bcx4Q==",
+  "dgSpecHash": "fFtXy4h0UB0okQ2T/iLd1JPzwc3wnfSQRnvHV5iY63wFMAoXbxyoCwg6jnZbLESUCQNagOEozykZIzcTdS2pJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vanquish875\\source\\repos\\MapCGLToRemote\\MapCGLToRemote\\MapCGLToRemote.csproj",
+  "projectFilePath": "C:\\Users\\Vanquish875\\Documents\\GitHub\\MapCGLToRemote\\MapCGLToRemote\\MapCGLToRemote.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vanquish875\\.nuget\\packages\\epplus\\5.5.5\\epplus.5.5.5.nupkg.sha512",
     "C:\\Users\\Vanquish875\\.nuget\\packages\\filehelpers\\3.4.2\\filehelpers.3.4.2.nupkg.sha512",
@@ -83,8 +83,7 @@
     "C:\\Users\\Vanquish875\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Vanquish875\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
-    "C:\\Users\\Vanquish875\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Vanquish875\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+    "C:\\Users\\Vanquish875\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
